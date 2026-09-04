@@ -194,7 +194,7 @@ Durante a atividade foram praticados os seguintes conceitos:
 
 ## Observação
 
-Os códigos deste projeto foram desenvolvidos para atender à atividade acadêmica e reproduzir, na Google Cloud, os mesmos conceitos praticados anteriormente com Terraform na AWS. A conexão e o provisionamento real dos recursos não são obrigatórios para a entrega.
+Os códigos deste projeto foram desenvolvidos para atender à atividade acadêmica e reproduzir, na Google Cloud, os mesmos conceitos praticados anteriormente com Terraform na AWS aqui na mesma pasta dos peojetos. A conexão e o provisionamento real dos recursos não são obrigatórios para fins desse projeto, mas o deixa preparado para tal com foco no aprendizado didático da atividade.
 
 ## Referências
 
